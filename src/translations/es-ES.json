@@ -1,0 +1,14 @@
+{
+  "app.message": "Hello {name}! es",
+  "app.plural": "Hello {name}!. You selected {value, plural, one {# option} other {# options}} es",
+  "app.react-intl": "react-intl es",
+  "app.selectLanguage": "Select Language es",
+  "app.resource": "Some Resources es:",
+  "app.docs": "React Intl Docs es",
+  "app.formatNumber": "Format Number es",
+  "app.formatMessage": "Format Message es",
+  "app.formatPluralMessage": "Format Plural Message es",
+  "app.formatDate": "Format Date es",
+  "app.formatTime": "Format Time es",
+  "app.formatRelative": "Format Relative Date es"
+}

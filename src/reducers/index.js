@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
 import ui from './ui';
-import entities from './entities/index.js';
+import locales from './localesReducer';
 
 const rootReducer = combineReducers({
     ui,
-    entities
+    locales
 });
 
 export default rootReducer;
